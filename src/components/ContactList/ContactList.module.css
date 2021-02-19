@@ -1,0 +1,23 @@
+.item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+
+  margin: 5px 0;
+  padding: 10px;
+  width: 300px;
+
+  border: 1px solid black;
+}
+
+.btn {
+  border: none;
+  padding: 10px;
+  color: #ffffff;
+  background-color: #d9534f;
+}
+
+.btn:hover {
+  background-color: #c9302c;
+}

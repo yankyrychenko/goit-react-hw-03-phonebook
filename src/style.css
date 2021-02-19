@@ -1,0 +1,40 @@
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+​a {
+  text-decoration: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+input:focus,
+input:active,
+button:active,
+button:focus {
+  outline: none;
+}
+
+#root {
+  padding: 15px;
+}
